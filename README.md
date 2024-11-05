@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Daiani 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando NextJS, React e TypeScript
+- 🔭 Hoje trabalho com desenvolvimento backend
+- 🌱 Estudando C# e .NET 
 - 😄 Pronomes: ela/dela
 
 <div>
